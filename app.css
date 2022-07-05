@@ -1,0 +1,43 @@
+h1 {
+	text-align: center;
+}
+
+.form-control {
+	width: 15%;
+	height: 25px;
+}
+
+#search-form {
+	display: flex;
+	justify-content: center;
+}
+
+.btn-primary {
+	background-color: blue;
+	border-color: navy;
+	color: white;
+	width: 5%;
+	cursor: pointer;
+}
+
+.btn-primary:hover {
+	background-color: white;
+	border-color: blue;
+	color: blue;
+}
+
+.shows-result {
+	display: flexbox;
+}
+
+.Show {
+	display: inline-flex;
+	text-align: center;
+	margin: 10px;
+	border: 1px solid black;
+	padding: 10px;
+}
+
+.media {
+	width: 400px;
+}
